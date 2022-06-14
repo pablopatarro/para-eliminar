@@ -5,3 +5,8 @@ function mostrarHola()
     console.log("Holita");
     let patatasfritas
 }
+
+function prueba()
+{
+    //vacío.
+}
